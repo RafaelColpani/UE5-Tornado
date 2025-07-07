@@ -39,7 +39,8 @@ Each component contributes to a more immersive and physically plausible tornado 
    UE5_Tornado/
    ```
 4. Double-click the `UE5_Tornado.uproject` file to launch the project
-5. Once opened, go to the `Content Drawer`, `Maps folder` and access the `Main` level.
+5. Once opened, go to the `Content Drawer`, `Maps folder` and access the `Main` level
+6. And wait for all shader compilation
 
 ---
 
