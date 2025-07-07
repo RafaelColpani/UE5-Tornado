@@ -5,7 +5,7 @@ A realistic tornado effect recreated using the Niagara system in Unreal Engine.
 
 ## Final Result  
 
-<p align="center">
+<p align="left">
   <img src="https://github.com/RafaelColpani/UE5-Tornado/blob/main/img/finalRender.gif" width="45%" />
    
   <img src="https://github.com/RafaelColpani/UE5-Tornado/blob/main/img/lightningRender.gif" width="45%" />
